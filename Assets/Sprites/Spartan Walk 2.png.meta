@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: d2eafd3fd4ae679488e4f03a83db38f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2322239131114487933
+    second: Spartan Walk_0
+  - first:
+      213: -8884170113727525882
+    second: Spartan Walk_1
+  - first:
+      213: 8889149287737789111
+    second: Spartan Walk_2
+  - first:
+      213: -2052369292292518351
+    second: Spartan Walk_3
+  - first:
+      213: 9075586121478968743
+    second: Spartan Walk_4
+  - first:
+      213: 1245730712372445934
+    second: Spartan Walk_5
+  - first:
+      213: -2759955479216678367
+    second: Spartan Walk_6
+  - first:
+      213: -1917118987269028317
+    second: Spartan Walk_7
+  - first:
+      213: -399871718356115403
+    second: Spartan Walk_8
+  - first:
+      213: -573490596618613415
+    second: Spartan Walk_9
+  - first:
+      213: 696121584125504304
+    second: Spartan Walk_10
+  - first:
+      213: 2640612654361491699
+    second: Spartan Walk_11
+  - first:
+      213: 7135975288447084637
+    second: Spartan Walk_12
+  - first:
+      213: -7273257618426086749
+    second: Spartan Walk_13
+  - first:
+      213: 2928996072906788255
+    second: Spartan Walk_14
+  - first:
+      213: -6826618569527409207
+    second: Spartan Walk_15
+  - first:
+      213: 2711330493474751914
+    second: Spartan Walk_16
+  - first:
+      213: 4733130878164499613
+    second: Spartan Walk_17
+  - first:
+      213: 5653526463275969692
+    second: Spartan Walk_18
+  - first:
+      213: -8958069895633053627
+    second: Spartan Walk_19
+  - first:
+      213: 9137431028735312233
+    second: Spartan Walk_20
+  - first:
+      213: 8066687115491531369
+    second: Spartan Walk_21
+  - first:
+      213: -6730001435144818300
+    second: Spartan Walk_22
+  - first:
+      213: 6981700371553758705
+    second: Spartan Walk_23
+  - first:
+      213: -2243247102054892699
+    second: Spartan Walk_24
+  - first:
+      213: -3609121437854734391
+    second: Spartan Walk_25
+  - first:
+      213: 7541474279961125675
+    second: Spartan Walk_26
+  - first:
+      213: -1932365797302059280
+    second: Spartan Walk_27
+  - first:
+      213: 4805054626110793450
+    second: Spartan Walk_28
+  - first:
+      213: -5600391378390309450
+    second: Spartan Walk_29
+  - first:
+      213: 5063133598439033140
+    second: Spartan Walk_30
+  - first:
+      213: -3806320072760547651
+    second: Spartan Walk_31
+  - first:
+      213: -9061680229539584949
+    second: Spartan Walk_32
+  - first:
+      213: 1386015516482633715
+    second: Spartan Walk_33
+  - first:
+      213: -98122157115538680
+    second: Spartan Walk_34
+  - first:
+      213: 8972323144304730434
+    second: Spartan Walk_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spartan Walk_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 200
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70479d9f204a3020800000000000000
+      internalID: 2322239131114487933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 200
+        width: 37
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c01271a5615b480800000000000000
+      internalID: -8884170113727525882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 199
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba07033e2a9c5b70800000000000000
+      internalID: 8889149287737789111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 198
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e0cf8a0058483e0800000000000000
+      internalID: -2052369292292518351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 199
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a518333e75f2fd70800000000000000
+      internalID: 9075586121478968743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 200
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee201c49b79b94110800000000000000
+      internalID: 1245730712372445934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 199
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a95615d1ba2b9d0800000000000000
+      internalID: -2759955479216678367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 198
+        width: 33
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3264cab30760565e0800000000000000
+      internalID: -1917118987269028317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 199
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a8af6ace537af0800000000000000
+      internalID: -399871718356115403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4582475d8a08f0800000000000000
+      internalID: -573490596618613415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 136
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b684e74ee19a900800000000000000
+      internalID: 696121584125504304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 137
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f83e94f73755a420800000000000000
+      internalID: 2640612654361491699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 137
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58aad187b3180360800000000000000
+      internalID: 7135975288447084637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_13
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 136
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3fcd3bb2301b90800000000000000
+      internalID: -7273257618426086749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 136
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8f1ae862e5a820800000000000000
+      internalID: 2928996072906788255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 136
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5cb3a749af241a0800000000000000
+      internalID: -6826618569527409207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 136
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa54f34f7b490a520800000000000000
+      internalID: 2711330493474751914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 136
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c7d6cd4757fa140800000000000000
+      internalID: 4733130878164499613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 72
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca5db5d5c557e40800000000000000
+      internalID: 5653526463275969692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 72
+        width: 36
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548dbad44ea8ea380800000000000000
+      internalID: -8958069895633053627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 71
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618663cb1daece70800000000000000
+      internalID: 9137431028735312233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 71
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad7114131a2ff60800000000000000
+      internalID: 8066687115491531369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 71
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f2501a5b3a92a0800000000000000
+      internalID: -6730001435144818300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 72
+        width: 37
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdacae4f7bf3e060800000000000000
+      internalID: 6981700371553758705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_24
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 71
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bf79a55a26ed0e0800000000000000
+      internalID: -2243247102054892699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 71
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7eb699c23d9edc0800000000000000
+      internalID: -3609121437854734391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_26
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 71
+        width: 36
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23e3d3b6e2b8a860800000000000000
+      internalID: 7541474279961125675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 8
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe32b3ab8bde25e0800000000000000
+      internalID: -1932365797302059280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae66ea369bbfea240800000000000000
+      internalID: 4805054626110793450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a2e7a6b96742b0800000000000000
+      internalID: -5600391378390309450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 29
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439cd41ae2dd34640800000000000000
+      internalID: 5063133598439033140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62ba18f0c3d2bc0800000000000000
+      internalID: -3806320072760547651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 8
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44ec1297d17e3280800000000000000
+      internalID: -9061680229539584949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_33
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 8
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff7021d4cd1c3310800000000000000
+      internalID: 1386015516482633715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_34
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 8
+        width: 30
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80388800b6663aef0800000000000000
+      internalID: -98122157115538680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spartan Walk_35
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 8
+        width: 29
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241ac42cc58148c70800000000000000
+      internalID: 8972323144304730434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
