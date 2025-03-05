@@ -48,8 +48,4 @@ The A* Pathfinding Project is available in both Free and Pro versions. You can f
 
 Contributions are welcome! Feel free to fork, submit issues, or create pull requests to enhance the game.  
 
-🚀 Happy coding and game development! 🎮✨  
-
----
-
-This version ensures proper credit is given to Aron Granberg while maintaining a polished and professional tone. Let me know if you'd like any tweaks! 🚀
+🚀 Happy coding and game development! 🎮✨ 
